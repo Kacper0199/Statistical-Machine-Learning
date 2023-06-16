@@ -6,3 +6,4 @@ Part of the Statistical Machine Learning course at AGH University of Science and
 - [lab2: Estimating object location](https://github.com/Kacper0199/Statistical-Machine-Learning/tree/main/lab2)
 - [lab3: Linear regression](https://github.com/Kacper0199/Statistical-Machine-Learning/tree/main/lab3)
 - [lab4: Gaussian processes regresion](https://github.com/Kacper0199/Statistical-Machine-Learning/tree/main/lab4)
+- [lab5: Multinomial logistic regression](https://github.com/Kacper0199/Statistical-Machine-Learning/tree/main/lab5)
